@@ -1,0 +1,676 @@
+{
+    "serverRoot": "",
+    "document_location": "/var/www/html/openemr/sites/default",
+    "username": "",
+    "password": "",
+    "hie": "MyHealth",
+    "time_start": "19710326000000-0300",
+    "time_end": "20221008010621-0300",
+    "client_id": "",
+    "created_time": "20221008010621",
+    "created_time_timezone": "20221008010621-0300",
+    "timezone_local_offset": "-0300",
+    "send": "0",
+    "doc_type": "",
+    "assignedEntity": {
+        "streetAddressLine": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "country": ""
+    },
+    "telecom": {
+        "$": {
+            "use": "WP",
+            "value": ""
+        }
+    },
+    "representedOrganization": {
+        "name": "",
+        "telecom": {
+            "$": {
+                "use": "WP",
+                "value": ""
+            }
+        },
+        "streetAddressLine": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "country": ""
+    },
+    "referral_reason": {
+        "0": {
+            "text": ""
+        },
+        "1": ""
+    },
+    "patient": {
+        "author": {
+            "time": "2022-08-12 23:18:57",
+            "id": "96d2ea58-cb97-48eb-b097-05910d2f5bf2",
+            "physician_type": "Family Medicine",
+            "physician_type_code": "207Q00000X",
+            "physician_type_system": "2.16.840.1.114222.4.11.1066",
+            "physician_type_system_name": "ValueSet Healthcare Provider Taxonomy (HIPAA)",
+            "streetAddressLine": "",
+            "facility_oid": "2.16.840.1.113883.4.6",
+            "facility_npi": "",
+            "facility_name": "Indice Salud PsicoSocial",
+            "city": "",
+            "state": "",
+            "postalCode": "",
+            "country": "",
+            "telecom": "",
+            "fname": "Dr Alejandro",
+            "lname": "D'Alessandro",
+            "npi": ""
+        },
+        "id": "1",
+        "encounter": "",
+        "prefix": "Mrs.",
+        "fname": "Maria",
+        "mname": "Cecilia",
+        "lname": "Bourdon",
+        "suffix": "",
+        "previous_names": "",
+        "birth_fname": "",
+        "birth_mname": "",
+        "birth_lname": "",
+        "use": "HP",
+        "street": {
+            "0": "HÚSARES",
+            "1": "2248"
+        },
+        "city": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+        "state": "CABA",
+        "postalCode": "1428",
+        "country": "Argentina",
+        "previous_addresses": {
+            "address": {
+                "0": {
+                    "use": "H",
+                    "street": {
+                        "0": "",
+                        "1": ""
+                    },
+                    "city": "",
+                    "state": "",
+                    "postalCode": "",
+                    "country": "USA",
+                    "period_start": "1969-12-31",
+                    "period_end": ""
+                },
+                "1": {
+                    "use": "H",
+                    "street": {
+                        "0": "",
+                        "1": ""
+                    },
+                    "city": "",
+                    "state": "",
+                    "postalCode": "",
+                    "country": "USA",
+                    "period_start": "2022-12-08",
+                    "period_end": ""
+                }
+            }
+        },
+        "ssn": "",
+        "dob": "19710326",
+        "gender": "Female",
+        "gender_code": "F",
+        "status": "married",
+        "status_code": "M",
+        "phone_home": "",
+        "phone_mobile": "",
+        "email": "maricebourdon@gmail.com",
+        "religion": "Church of Christ",
+        "religion_code": "1064",
+        "race": "Blanco",
+        "race_code": "2106-3",
+        "race_group": "null_flavor",
+        "race_group_code": "",
+        "ethnicity": "Hispano o Latino",
+        "ethnicity_code": "2135-2",
+        "language": "Español",
+        "language_code": "es"
+    },
+    "guardian": {
+        "fname": "Maria",
+        "lname": "Bourdon",
+        "code": "",
+        "relation": "",
+        "display_name": "",
+        "street": "",
+        "city": "",
+        "state": "CABA",
+        "postalCode": "",
+        "country": "Argentina",
+        "telecom": ""
+    },
+    "encounter_provider": {
+        "facility_id": "3",
+        "facility_npi": "",
+        "facility_oid": "",
+        "facility_name": "Indice Salud PsicoSocial",
+        "facility_phone": "000-000-0000",
+        "facility_fax": "000-000-0000",
+        "facility_street": "Av. Melián 2752",
+        "facility_city": "Ciudad de Buenos Aires",
+        "facility_state": "CABA",
+        "facility_postal_code": "1429",
+        "facility_country_code": "Argentina"
+    },
+    "author": {
+        "time": "2022-10-08 01:06:21-0300",
+        "id": "96d2ea58-cb97-48eb-b097-05910d2f5bf2",
+        "physician_type": "Family Medicine",
+        "physician_type_code": "207Q00000X",
+        "physician_type_system": "2.16.840.1.114222.4.11.1066",
+        "physician_type_system_name": "ValueSet Healthcare Provider Taxonomy (HIPAA)",
+        "streetAddressLine": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "country": "",
+        "telecom": "",
+        "fname": "Dr Alejandro",
+        "lname": "D'Alessandro",
+        "npi": ""
+    },
+    "data_enterer": {
+        "streetAddressLine": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "country": "",
+        "telecom": "0",
+        "fname": "",
+        "lname": ""
+    },
+    "informer": {
+        "streetAddressLine": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "country": "",
+        "telecom": "0",
+        "fname": "",
+        "lname": "",
+        "personal_informant": ""
+    },
+    "custodian": {
+        "streetAddressLine": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "country": "",
+        "telecom": "0",
+        "name": "",
+        "organization": ""
+    },
+    "information_recipient": {
+        "fname": "",
+        "lname": "",
+        "organization": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "phonew1": ""
+    },
+    "legal_authenticator": {
+        "streetAddressLine": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "country": "",
+        "telecom": "0",
+        "fname": "",
+        "lname": ""
+    },
+    "document_participants": {
+        "participant": {
+            "date_time": "2022-10-08 01:06:21-0300",
+            "fname": "Dr Alejandro",
+            "lname": "D'Alessandro",
+            "organization": "",
+            "organization_id": "96d2ea18-cd29-4904-8b04-5a2394919632",
+            "organization_npi": "",
+            "organization_taxonomy": "",
+            "organization_taxonomy_desc": "",
+            "street": "",
+            "city": "",
+            "state": "",
+            "postalCode": "",
+            "phonew1": "",
+            "address_use": "WP",
+            "type": "REFB"
+        }
+    },
+    "authenticator": {
+        "streetAddressLine": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "country": "",
+        "telecom": "0",
+        "fname": "",
+        "lname": ""
+    },
+    "primary_care_provider": {
+        "provider": {
+            "author": {
+                "time": "2022-08-12 23:18:57",
+                "id": "96d2ea58-cb97-48eb-b097-05910d2f5bf2",
+                "physician_type": "Family Medicine",
+                "physician_type_code": "207Q00000X",
+                "physician_type_system": "2.16.840.1.114222.4.11.1066",
+                "physician_type_system_name": "ValueSet Healthcare Provider Taxonomy (HIPAA)",
+                "streetAddressLine": "",
+                "facility_oid": "2.16.840.1.113883.4.6",
+                "facility_npi": "",
+                "facility_name": "Indice Salud PsicoSocial",
+                "city": "",
+                "state": "",
+                "postalCode": "",
+                "country": "",
+                "telecom": "",
+                "fname": "Dr Alejandro",
+                "lname": "D'Alessandro",
+                "npi": ""
+            },
+            "prefix": "",
+            "fname": "Dr Alejandro",
+            "lname": "D'Alessandro",
+            "speciality": "",
+            "organization": "Indice Salud PsicoSocial",
+            "telecom": "0",
+            "street": "",
+            "city": "",
+            "state": "",
+            "zip": "",
+            "table_id": "provider-1",
+            "npi": "",
+            "physician_type": "",
+            "physician_type_code": "",
+            "taxonomy": "207Q00000X",
+            "taxonomy_description": "Family Medicine",
+            "provider_since": "2022-10-08 01:06:21-0300"
+        }
+    },
+    "care_team": {
+        "author": {
+            "time": "2022-08-12 23:18:57",
+            "id": "96d2ea58-cb97-48eb-b097-05910d2f5bf2",
+            "physician_type": "Family Medicine",
+            "physician_type_code": "207Q00000X",
+            "physician_type_system": "2.16.840.1.114222.4.11.1066",
+            "physician_type_system_name": "ValueSet Healthcare Provider Taxonomy (HIPAA)",
+            "streetAddressLine": "",
+            "facility_oid": "2.16.840.1.113883.4.6",
+            "facility_npi": "",
+            "facility_name": "Indice Salud PsicoSocial",
+            "city": "",
+            "state": "",
+            "postalCode": "",
+            "country": "",
+            "telecom": "",
+            "fname": "Dr Alejandro",
+            "lname": "D'Alessandro",
+            "npi": ""
+        },
+        "is_active": "active"
+    },
+    "encounter_list": {
+        "encounter": {
+            "0": {
+                "extension": "ZGVmYXVsdDI=",
+                "sha_extension": "0bb48e19-6a39-2764-843a-7b7b0eb0aa9c",
+                "encounter_id": "2",
+                "visit_category": "Office Visit",
+                "performer": "Dr Alejandro Sergio D'Alessandro",
+                "physician_type_code": "",
+                "physician_type": "",
+                "physician_code_type": "",
+                "npi": "",
+                "fname": "Dr Alejandro",
+                "mname": "Sergio",
+                "lname": "D'Alessandro",
+                "street": "",
+                "city": "",
+                "state": "",
+                "zip": "",
+                "work_phone": "",
+                "location": "Indice Salud PsicoSocial",
+                "location_details": ",Av. Melián 2752,Ciudad de Buenos Aires,CABA 1429",
+                "date": "2022-07-22 01:47:00-0300",
+                "date_formatted": "20220722",
+                "facility_extension": "ZGVmYXVsdDM=",
+                "facility_sha_extension": "ebc04722-0c75-b9e5-f74f-9c52a19bc40b",
+                "facility_npi": "",
+                "facility_oid": "",
+                "facility_name": "Indice Salud PsicoSocial",
+                "facility_address": "Av. Melián 2752",
+                "facility_city": "Ciudad de Buenos Aires",
+                "facility_state": "CABA",
+                "facility_country": "Argentina",
+                "facility_zip": "1429",
+                "facility_phone": "000-000-0000",
+                "encounter_procedures": "",
+                "encounter_diagnosis": {
+                    "code": "",
+                    "code_type": "",
+                    "text": "",
+                    "status": ""
+                },
+                "encounter_reason": "07/22/2022 - Reason not given"
+            },
+            "1": {
+                "extension": "ZGVmYXVsdDE0",
+                "sha_extension": "7b61d472-c8d7-b79d-8338-b5546bbde7e9",
+                "encounter_id": "14",
+                "visit_category": "Preventive Care Services",
+                "performer": "Dr Alejandro Sergio D'Alessandro",
+                "physician_type_code": "",
+                "physician_type": "",
+                "physician_code_type": "",
+                "npi": "",
+                "fname": "Dr Alejandro",
+                "mname": "Sergio",
+                "lname": "D'Alessandro",
+                "street": "",
+                "city": "",
+                "state": "",
+                "zip": "",
+                "work_phone": "",
+                "location": "Indice Salud PsicoSocial",
+                "location_details": ",Av. Melián 2752,Ciudad de Buenos Aires,CABA 1429",
+                "date": "2022-07-28 01:14:00-0300",
+                "date_formatted": "20220728",
+                "facility_extension": "ZGVmYXVsdDM=",
+                "facility_sha_extension": "ebc04722-0c75-b9e5-f74f-9c52a19bc40b",
+                "facility_npi": "",
+                "facility_oid": "",
+                "facility_name": "Indice Salud PsicoSocial",
+                "facility_address": "Av. Melián 2752",
+                "facility_city": "Ciudad de Buenos Aires",
+                "facility_state": "CABA",
+                "facility_country": "Argentina",
+                "facility_zip": "1429",
+                "facility_phone": "000-000-0000",
+                "encounter_procedures": "",
+                "encounter_diagnosis": {
+                    "code": "",
+                    "code_type": "",
+                    "text": "",
+                    "status": ""
+                },
+                "encounter_reason": "07/28/2022 - Control Presión Arterial"
+            }
+        }
+    },
+    "primary_diagnosis": {
+        "root": "",
+        "extension": "",
+        "encounter_date": "",
+        "encounter_end_date": "",
+        "code": "",
+        "code_type": "",
+        "text": "",
+        "status": ""
+    },
+    "allergies": "",
+    "medications": "",
+    "problem_lists": {
+        "problem": {
+            "author": {
+                "time": "2022-07-25 22:31:22",
+                "id": "96d2ea58-cb97-48eb-b097-05910d2f5bf2",
+                "physician_type": "Family Medicine",
+                "physician_type_code": "207Q00000X",
+                "physician_type_system": "2.16.840.1.114222.4.11.1066",
+                "physician_type_system_name": "ValueSet Healthcare Provider Taxonomy (HIPAA)",
+                "streetAddressLine": "",
+                "facility_oid": "2.16.840.1.113883.4.6",
+                "facility_npi": "",
+                "facility_name": "Indice Salud PsicoSocial",
+                "city": "",
+                "state": "",
+                "postalCode": "",
+                "country": "",
+                "telecom": "",
+                "fname": "Dr Alejandro",
+                "lname": "D'Alessandro",
+                "npi": ""
+            },
+            "problem_id": "",
+            "extension": "ZGVmYXVsdDI=",
+            "sha_extension": "96dded02-63c5-467f-9786-080c1a53e542",
+            "title": "Hipotiroidismo",
+            "code": "",
+            "code_type": "",
+            "code_text": "",
+            "age": "50",
+            "start_date_table": "2021-07-01 22:28:00",
+            "start_date": "20210701 22:28:00",
+            "end_date": "0",
+            "status": "active",
+            "status_table": "Active",
+            "status_code": "55561003",
+            "observation": "Mejorado",
+            "observation_code": "",
+            "diagnosis": ""
+        }
+    },
+    "procedures": "",
+    "results": "",
+    "immunizations": "",
+    "planofcare": "",
+    "goals": "",
+    "health_concerns": "",
+    "functional_status": "",
+    "mental_status": "",
+    "clinical_instruction": "",
+    "medical_devices": "",
+    "clinical_notes": "",
+    "progressNotes": "",
+    "hospitalCourse": {
+        "item": ""
+    },
+    "dischargediagnosis": {
+        "item": ""
+    },
+    "dischargemedication": {
+        "item": ""
+    },
+    "procedure_notes": {
+        "complications": {
+            "age": "52",
+            "item": ""
+        },
+        "procedure_diagnosis": {
+            "age": "52",
+            "item": ""
+        },
+        "procedure_description": {
+            "item": ""
+        },
+        "procedure_indications": {
+            "item": ""
+        }
+    },
+    "operative_notes": {
+        "anesthesia": {
+            "item": ""
+        },
+        "post_operative_diag": {
+            "item": ""
+        },
+        "pre_operative_diag": {
+            "item": ""
+        },
+        "blood_loss": {
+            "item": ""
+        },
+        "procedure_findings": {
+            "item": "",
+            "age": "52"
+        },
+        "procedure_specimens": {
+            "item": ""
+        }
+    },
+    "consultation_notes": {
+        "hp": {
+            "item": ""
+        },
+        "physical_exam": {
+            "item": ""
+        }
+    },
+    "history_physical": {
+        "chief_complaint": {
+            "item": ""
+        },
+        "general_status": {
+            "item": ""
+        },
+        "history_past_illness": {
+            "item": ""
+        },
+        "review_of_systems": {
+            "item": ""
+        },
+        "vitals_list": {
+            "vitals": {
+                "author": {
+                    "time": "2022-07-28 01:17:13",
+                    "id": "96d2ea58-cb97-48eb-b097-05910d2f5bf2",
+                    "physician_type": "Family Medicine",
+                    "physician_type_code": "207Q00000X",
+                    "physician_type_system": "2.16.840.1.114222.4.11.1066",
+                    "physician_type_system_name": "ValueSet Healthcare Provider Taxonomy (HIPAA)",
+                    "streetAddressLine": "",
+                    "facility_oid": "2.16.840.1.113883.4.6",
+                    "facility_npi": "",
+                    "facility_name": "Indice Salud PsicoSocial",
+                    "city": "",
+                    "state": "",
+                    "postalCode": "",
+                    "country": "",
+                    "telecom": "",
+                    "fname": "Dr Alejandro",
+                    "lname": "D'Alessandro",
+                    "npi": ""
+                },
+                "extension": "ZGVmYXVsdDE1",
+                "sha_extension": "c6f88321-67ad-11db-bd13-0800200c9a66",
+                "date": "2022-07-28",
+                "effectivetime": "2022-07-28 01:15:00",
+                "temperature": "36",
+                "unit_temperature": "Cel",
+                "extension_temperature": "ZGVmYXVsdDE1dGVtcGVyYXR1cmU=",
+                "bpd": "90",
+                "extension_bpd": "ZGVmYXVsdDE1YnBk",
+                "bps": "145",
+                "extension_bps": "ZGVmYXVsdDE1YnBz",
+                "head_circ": "",
+                "extension_head_circ": "ZGVmYXVsdDE1aGVhZF9jaXJj",
+                "pulse": "68",
+                "extension_pulse": "ZGVmYXVsdDE1cHVsc2U=",
+                "height": "160",
+                "extension_height": "ZGVmYXVsdDE1aGVpZ2h0",
+                "unit_height": "cm",
+                "oxygen_saturation": "98",
+                "extension_oxygen_saturation": "ZGVmYXVsdDE1b3h5Z2VuX3NhdHVyYXRpb24=",
+                "breath": "17",
+                "extension_breath": "ZGVmYXVsdDE1YnJlYXRo",
+                "weight": "58.00",
+                "extension_weight": "ZGVmYXVsdDE1d2VpZ2h0",
+                "unit_weight": "kg",
+                "BMI": "22.654008",
+                "extension_BMI": "ZGVmYXVsdDE1Qk1J",
+                "BMI_status": "Normal",
+                "extension_oxygen_flow_rate": "ZGVmYXVsdDE1b3h5Z2VuX2Zsb3dfcmF0ZQ==",
+                "oxygen_flow_rate": "",
+                "extension_ped_weight_height": "ZGVmYXVsdDE1cGVkX3dlaWdodF9oZWlnaHQ=",
+                "ped_weight_height": "",
+                "extension_ped_bmi": "ZGVmYXVsdDE1cGVkX2JtaQ==",
+                "ped_bmi": "",
+                "extension_ped_head_circ": "ZGVmYXVsdDE1cGVkX2hlYWRfY2lyYw==",
+                "ped_head_circ": "",
+                "extension_inhaled_oxygen_concentration": "ZGVmYXVsdDE1aW5oYWxlZF9veHlnZW5fY29uY2VudHJhdGlvbg==",
+                "inhaled_oxygen_concentration": "21"
+            }
+        },
+        "social_history": {
+            "history_element": {
+                "0": {
+                    "author": {
+                        "time": "2022-09-26 22:08:01",
+                        "id": "970223c6-9fd3-43e6-9a59-fc9e15073d25",
+                        "physician_type": "Family Medicine",
+                        "physician_type_code": "207Q00000X",
+                        "physician_type_system": "2.16.840.1.114222.4.11.1066",
+                        "physician_type_system_name": "ValueSet Healthcare Provider Taxonomy (HIPAA)",
+                        "streetAddressLine": "",
+                        "facility_oid": "2.16.840.1.113883.4.6",
+                        "facility_npi": "",
+                        "facility_name": "Indice Salud PsicoSocial",
+                        "city": "",
+                        "state": "",
+                        "postalCode": "",
+                        "country": "",
+                        "telecom": "",
+                        "fname": "Gestor",
+                        "lname": "Bienestar",
+                        "npi": ""
+                    },
+                    "extension": "c21va2luZ2RlZmF1bHQxMQ==",
+                    "sha_extension": "9b56c25d-9104-45ee-9fa4-e0f3afaa01c1",
+                    "element": "Smoking",
+                    "description": "Never smoker",
+                    "status_code": "266919005",
+                    "status": "completed",
+                    "date": "",
+                    "date_formatted": "",
+                    "code": "229819007"
+                },
+                "1": {
+                    "author": {
+                        "time": "2022-09-26 22:08:01",
+                        "id": "970223c6-9fd3-43e6-9a59-fc9e15073d25",
+                        "physician_type": "Family Medicine",
+                        "physician_type_code": "207Q00000X",
+                        "physician_type_system": "2.16.840.1.114222.4.11.1066",
+                        "physician_type_system_name": "ValueSet Healthcare Provider Taxonomy (HIPAA)",
+                        "streetAddressLine": "",
+                        "facility_oid": "2.16.840.1.113883.4.6",
+                        "facility_npi": "",
+                        "facility_name": "Indice Salud PsicoSocial",
+                        "city": "",
+                        "state": "",
+                        "postalCode": "",
+                        "country": "",
+                        "telecom": "",
+                        "fname": "Gestor",
+                        "lname": "Bienestar",
+                        "npi": ""
+                    },
+                    "extension": "YWxjb2hvbGRlZmF1bHQxMQ==",
+                    "sha_extension": "37f76c51-6411-4e1d-8a37-957fd49d2cef",
+                    "element": "Alcohol",
+                    "description": "",
+                    "status_code": "33",
+                    "status": "completed",
+                    "date": "",
+                    "date_formatted": "",
+                    "code": "160573003"
+                }
+            }
+        }
+    },
+    "document": ""
+}
